@@ -9,7 +9,7 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-- **On block-wise and reference panel-based estimators for genetic data prediction in high dimensions** \[[PAPER](#)\] <br>Annals of Statistics, Accepted. <br>Zhao Bingxin, Zheng Shurong, Zhu Hongtu.
+- **On block-wise and reference panel-based estimators for genetic data prediction in high dimensions** \[[PAPER](https://arxiv.org/abs/2203.12003)\] <br>Annals of Statistics. <br>Zhao Bingxin, ***Zheng Shurong***, Zhu Hongtu.
 - **High-Dimensional Scale Invariant Discriminant Analysis** \[[PAPER](#)\] <br>Statistica Sinica, Accepted. <br>Li Ming, Wang Cheng, Yin Yanqing, Zheng Shurong.
 - **Two-directional Simultaneous Inference for High-dimensional Models** \[[PAPER](#)\] <br>Journal of Business and Economic Statistics, Accepted. <br>Liu Wei, Lin Huazhen, Liu Jin, Zheng Shurong.
 - **Bolck-Diagonal Test for High-Dimensional Covariance Matrix** \[[PAPER](#)\] <br>Test, 2023, Vol.32, No.1, pp. 447-466. <br>Lai Jiayu, Wang Xiaoyi, Zhao Kaige, Zheng Shurong.
