@@ -9,6 +9,8 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<div class="wordwrap">Selected Publications for large dimensional random matrix:</div>
+
 - **On block-wise and reference panel-based estimators for genetic data prediction in high dimensions** \[[PAPER](https://arxiv.org/abs/2203.12003)\] <br>Annals of Statistics. <br>Zhao Bingxin, ***Zheng Shurong***, Zhu Hongtu.
 - **High-Dimensional Scale Invariant Discriminant Analysis** \[[PAPER](#)\] <br>Statistica Sinica. <br>Li Ming, Wang Cheng, Yin Yanqing, ***Zheng Shurong***.
 - **Two-directional Simultaneous Inference for High-dimensional Models** \[[PAPER](https://arxiv.org/abs/2012.11100)\] <br>Journal of Business and Economic Statistics. <br>Liu Wei, Lin Huazhen, Liu Jin, ***Zheng Shurong***.
