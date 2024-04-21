@@ -2,16 +2,10 @@
 main:
   - title: "Bio"
     url: /bio/
-
-  - title: "Education"
-    url: /education/    
-
-  - title: "Experience"
-    url: /experience/    
     
   - title: "Publications"
     url: /publications/
     
   - title: "Disseminations"
-    url: /Disseminations/
+    url: /disseminations/
     
