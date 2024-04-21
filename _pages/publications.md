@@ -7,6 +7,7 @@ author_profile: true
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
 - **On block-wise and reference panel-based estimators for genetic data prediction in high dimensions** \[[PAPER](#)\] <br>Annals of Statistics, Accepted. <br>Zhao Bingxin, Zheng Shurong, Zhu Hongtu.
 - **High-Dimensional Scale Invariant Discriminant Analysis** \[[PAPER](#)\] <br>Statistica Sinica, Accepted. <br>Li Ming, Wang Cheng, Yin Yanqing, Zheng Shurong.
