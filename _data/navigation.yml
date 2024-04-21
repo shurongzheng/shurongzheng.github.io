@@ -1,19 +1,16 @@
 # main links links
 main:
   - title: "Bio"
-    url: /Bio/
+    url: /bio/
 
   - title: "Education"
-    url: /Education/    
+    url: /education/    
 
   - title: "Experience"
-    url: /Experience/    
+    url: /experience/    
     
   - title: "Publications"
-    url: /Publications/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    url: /publications/
     
   - title: "Disseminations"
     url: /Disseminations/
