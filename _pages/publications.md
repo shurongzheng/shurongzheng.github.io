@@ -8,7 +8,7 @@ author_profile: true
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
-<br><br>
+<br>
 <div class="wordwrap">Selected Publications for large dimensional random matrix:</div>
 
 - **On block-wise and reference panel-based estimators for genetic data prediction in high dimensions** \[[PAPER](https://arxiv.org/abs/2203.12003)\] <br>Annals of Statistics. <br>Zhao Bingxin, ***Zheng Shurong***, Zhu Hongtu.
