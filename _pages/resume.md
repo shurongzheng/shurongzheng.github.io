@@ -13,7 +13,7 @@ author_profile: true
   - Ph.D. in Jilin University 2000.9-2004.6
 * **Northeast Normal University**
   - Master in Northeast Normal University  1997/09-2000/07
-  - B.E. in  Northeast Normal University  1997/09-2000/07
+  - B.E. in  Northeast Normal University  1993/09-1997/07
 
 
 <!-- ## Experience -->
